@@ -1,0 +1,22 @@
+[
+  {
+    "rewardTokenName": "PEPE",
+    "stakeTokenName": "CAKE",
+    "tokenImage":
+      "https://tokens.pancakeswap.finance/images/0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00.png",
+    "earnAmount": 1000,
+    "tokenEarned": 40000000,
+    "totalStaked": 20309010,
+    "apr": 1.68,
+    "endDate": "2024-07-01-T01:38:36.905Z"
+  },
+  {
+    "rewardTokenName": "GWYN",
+    "stakeTokenName": "CAKE",
+    "earnAmount": 4000,
+    "tokenEarned": 3029301,
+    "totalStaked": 34092010,
+    "apr": 3.56,
+    "endDate": "2024-07-10-T01:38:36.905Z"
+  }
+]
